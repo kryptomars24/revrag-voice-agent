@@ -1,6 +1,3 @@
-# revrag-voice-agent
-
-
 # Revrag Voice Agent 🎙️
 
 A real-time voice agent built with LiveKit Agents SDK that joins a LiveKit room, listens to user speech, and responds with **"You said: \<text\>"** — demonstrating a full STT → Response → TTS pipeline with no-overlap and silence handling.
